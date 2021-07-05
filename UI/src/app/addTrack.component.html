@@ -1,0 +1,67 @@
+<div class="container" style="margin-top: 100px;">
+    <div class="row">
+        <div class="col-sm-12">
+
+            <h2>Add Track</h2>
+            <form [formGroup]="trackForm" (ngSubmit)="onSubmit()">
+                <div class="form-group">
+                    <label for="trackName">Please enter the name of the track</label>
+                    <input type="text" id="trackName" name="trackName"
+                        class="form-control"
+                        formControlName="trackName"
+                        [ngClass]="{'error': isInvalid('trackName')}"> 
+                </div>
+                <div class="form-group">
+                    <label for="location">Please enter the track location</label>
+                    <input type="text" id="location" name="location"
+                        class="form-control"
+                        formControlName="location"
+                        [ngClass]="{'error': isInvalid('location')}"> 
+                </div>
+                <div class="form-group">
+                    <label for="country">Please enter the country track is located in</label>
+                    <input type="text" id="country" name="country"
+                        class="form-control"
+                        formControlName="country"
+                        [ngClass]="{'error': isInvalid('country')}"> 
+                </div>
+                <div class="form-group">
+                    <label for="type">Please select the track type</label>
+                    <select id="type" name="type"
+                        class="form-control"
+                        formControlName="type">
+                        <option *ngFor="let type of trackTypes" [ngValue]="type">{{type.name}}</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="turns">Please enter the number of turns</label>
+                    <input type="text" id="turns" name="turns"
+                        class="form-control"
+                        formControlName="turns"
+                        [ngClass]="{'error': isInvalid('turns')}"> 
+                </div>
+                <div class="form-group">
+                    <label for="length">Please enter the track length (in miles)</label>
+                    <input type="text" id="length" name="length"
+                        class="form-control"
+                        formControlName="length"
+                        [ngClass]="{'error': isInvalid('length')}"> 
+                </div>
+                <div class="form-group">
+                    <label for="imageURL">Track image URL</label>
+                    <input type="imageURL" id="imageURL" name="imageURL"
+                        class="form-control"
+                        formControlName="imageURL" 
+                        [ngClass]="{'error': isInvalid('imageURL')}">
+                </div>
+                <span *ngIf="isIncomplete()">
+                    Please complete all fields
+                </span>   
+                <button *ngIf="!isIncomplete()"
+                    type="submit" class="btn btn-primary">Submit
+                </button>
+            </form>
+
+        </div>
+    </div>
+</div>
