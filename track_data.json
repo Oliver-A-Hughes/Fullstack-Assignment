@@ -1,0 +1,542 @@
+[
+  {
+    "name": "Albert Park Grand Prix Circuit",
+    "location": "Melbourne",
+    "country": "Australia",
+    "type": "Circuit",
+    "turns": 16,
+    "length": 3.296,
+	"events": [] 
+   },
+  {
+    "name": "Sepang International Circuit",
+    "location": "Kuala Lumpur",
+    "country": "Malaysia",
+    "type": "Circuit",
+    "turns": 15,
+    "length": 3.445,
+	"events": [] 
+   },
+  {
+    "name": "Bahrain International Circuit",
+    "location": "Sakhir",
+    "country": "Bahrain",
+    "type": "Circuit",
+    "turns": 15,
+    "length": 3.363, 
+	"events": [] 
+   },
+  {
+    "name": "Circuit de Barcelona-Catalunya",
+    "location": "Montmeló",
+    "country": "Spain",
+    "type": "Circuit",
+    "turns": 16,
+    "length": 2.892, 
+	"events": [] 
+   },
+  {
+    "name": "Istanbul Park",
+    "location": "Istanbul",
+    "country": "Turkey",
+    "type": "Circuit",
+    "turns": 14,
+    "length": 3.317, 
+	"events": [] 
+   },
+  {
+    "name": "Circuit de Monaco",
+    "location": "Monte-Carlo",
+    "country": "Monaco",
+    "type": "Street Circuit",
+    "turns": 19,
+    "length": 2.074, 
+	"events": [] 
+   },
+  {
+    "name": "Circuit Gilles Villeneuve",
+    "location": "Montreal",
+    "country": "Canada",
+    "type": "Circuit",
+    "turns": 14,
+    "length": 2.71, 
+	"events": [] 
+   },
+  {
+    "name": "Circuit de Nevers Magny-Cours",
+    "location": "Magny Cours",
+    "country": "France",
+    "type": "Circuit",
+    "turns": 17,
+    "length": 2.741, 
+	"events": [] 
+   },
+  {
+    "name": "Silverstone Circuit",
+    "location": "Silverstone",
+    "country": "UK",
+    "type": "Circuit",
+    "turns": 18,
+    "length": 3.661, 
+	"events": [] 
+   },
+  {
+    "name": "Hockenheimring",
+    "location": "Hockenheim",
+    "country": "Germany",
+    "type": "Circuit",
+    "turns": 17,
+    "length": 2.842, 
+	"events": [] 
+   },
+  {
+    "name": "Hungaroring",
+    "location": "Budapest",
+    "country": "Hungary",
+    "type": "Circuit",
+    "turns": 14,
+    "length": 2.722, 
+	"events": [] 
+   },
+  {
+    "name": "Valencia Street Circuit",
+    "location": "Valencia",
+    "country": "Spain",
+    "type": "Street Circuit",
+    "turns": 25,
+    "length": 3.367,
+	"events": [] 
+   },
+  {
+    "name": "Circuit de Spa-Francorchamps",
+    "location": "Spa",
+    "country": "Belgium",
+    "type": "Circuit",
+    "turns": 19,
+    "length": 4.352,
+	"events": [] 
+   },
+  {
+    "name": "Autodromo Nazionale di Monza",
+    "location": "Monza",
+    "country": "Italy",
+    "type": "Circuit",
+    "turns": 11,
+    "length": 3.6,
+	"events": [] 
+   },
+  {
+    "name": "Marina Bay Street Circuit",
+    "location": "Marina Bay",
+    "country": "Singapore",
+    "type": "Street Circuit",
+    "turns": 23,
+    "length": 3.146,
+	"events": [] 
+   },
+  {
+    "name": "Fuji Speedway",
+    "location": "Oyama",
+    "country": "Japan",
+    "type": "Circuit",
+    "turns": 16,
+    "length": 2.835,
+	"events": [] 
+   },
+  {
+    "name": "Shanghai International Circuit",
+    "location": "Shanghai",
+    "country": "China",
+    "type": "Circuit",
+    "turns": 16,
+    "length": 3.388,
+	"events": [] 
+   },
+  {
+    "name": "Autódromo José Carlos Pace",
+    "location": "São Paulo",
+    "country": "Brazil",
+    "type": "Circuit",
+    "turns": 15,
+    "length": 2.677,
+	"events": [] 
+   },
+  {
+    "name": "Indianapolis Motor Speedway",
+    "location": "Indianapolis",
+    "country": "USA",
+    "type": "Oval",
+    "turns": 4,
+    "length": 2.5,
+	"events": [] 
+   },
+  {
+    "name": "Nürburgring",
+    "location": "Nürburg",
+    "country": "Germany",
+    "type": "Circuit",
+    "turns": 15,
+    "length": 3.199,
+	"events": [] 
+   },
+  {
+    "name": "Autodromo Enzo e Dino Ferrari",
+    "location": "Imola",
+    "country": "Italy",
+    "type": "Circuit",
+    "turns": 19,
+    "length": 3.05,
+	"events": [] 
+   },
+  {
+    "name": "Suzuka Circuit",
+    "location": "Suzuka",
+    "country": "Japan",
+    "type": "Circuit",
+    "turns": 18,
+    "length": 3.609, 
+	"events": [] 
+   },
+  {
+    "name": "Red Bull Ring",
+    "location": "Spielburg",
+    "country": "Austria",
+    "type": "Circuit",
+    "turns": 10,
+    "length": 2.683, 
+	"events": [] 
+   },
+  {
+    "name": "Yas Marina Circuit",
+    "location": "Abu Dhabi",
+    "country": "United Arab Emirates",
+    "type": "Circuit",
+    "turns": 21,
+    "length": 3.451, 
+	"events": [] 
+   },
+  {
+    "name": "Circuito de Jerez",
+    "location": "Jerez de la Frontera",
+    "country": "Spain",
+    "type": "Circuit",
+    "turns": 13,
+    "length": 2.751, 
+	"events": [] 
+	},
+  {
+    "name": "Autódromo do Estoril",
+    "location": "Estoril",
+    "country": "Portugal",
+    "type": "Circuit",
+    "turns": 13,
+    "length": 2.599, 
+	"events": [] 
+   },
+  {
+    "name": "Okayama International Circuit",
+    "location": "Okayama",
+    "country": "Japan",
+    "type": "Circuit",
+    "turns": 13,
+    "length": 2.3, 
+	"events": [] 
+   },
+  {
+    "name": "Adelaide Street Circuit",
+    "location": "Adelaide",
+    "country": "Australia",
+    "type": "Street Circuit",
+    "turns": 16,
+    "length": 2.349, 
+	"events": [] 
+   },
+  {
+    "name": "Donington Park",
+    "location": "Castle Donington",
+    "country": "UK",
+    "type": "Circuit",
+    "turns": 12,
+    "length": 2.498,
+	"events": [] 
+   },
+  {
+    "name": "Autódromo Hermanos Rodríguez",
+    "location": "Mexico City",
+    "country": "Mexico",
+    "type": "Circuit",
+    "turns": 17,
+    "length": 2.674, 
+	"events": [] 
+	},
+  {
+    "name": "Circuit Paul Ricard",
+    "location": "Le Castellet",
+    "country": "France",
+    "type": "Circuit",
+    "turns": 15,
+    "length": 3.63, 
+	"events": [] 
+	},
+  {
+    "name": "Brands Hatch",
+    "location": "Kent",
+    "country": "UK",
+    "type": "Circuit",
+    "turns": 9,
+    "length": 2.433, 
+	"events": [] 
+	},
+  {
+    "name": "Circuit Park Zandvoort",
+    "location": "Zandvoort",
+    "country": "Netherlands",
+    "type": "Circuit",
+    "turns": 14,
+    "length": 2.646, 
+	"events": [] 
+	},
+  {
+    "name": "Zolder",
+    "location": "Heusden-Zolder",
+    "country": "Belgium",
+    "type": "Circuit",
+    "turns": 10,
+    "length": 2.492, 
+	"events": [] 
+	},
+  {
+    "name": "Long Beach",
+    "location": "California",
+    "country": "USA",
+    "type": "Street Circuit",
+    "turns": 11,
+    "length": 1.968, 
+	"events": [] 
+	},
+  {
+    "name": "Watkins Glen",
+    "location": "New York",
+    "country": "USA",
+    "type": "Circuit",
+    "turns": 11,
+    "length": 3.4, 
+	"events": [] 
+	},
+  {
+    "name": "Mosport International Raceway",
+    "location": "Ontario",
+    "country": "Canada",
+    "type": "Circuit",
+    "turns": 10,
+    "length": 2.459, 
+	"events": [] 
+	},
+  {
+    "name": "Charade Circuit",
+    "location": "Clermont-Ferrand",
+    "country": "France",
+    "type": "Circuit",
+    "turns": 18,
+    "length": 2.47, 
+	"events": [] 
+	},
+  {
+    "name": "Circuit Mont-Tremblant",
+    "location": "Quebec",
+    "country": "Canada",
+    "type": "Circuit",
+    "turns": 17,
+    "length": 2.65, 
+	"events": [] 
+	},
+  {
+    "name": "Le Mans",
+    "location": "Le Mans",
+    "country": "France",
+    "type": "Circuit",
+    "turns": 38,
+    "length": 8.467, 
+	"events": [] 
+	},
+  {
+    "name": "Aintree",
+    "location": "Liverpool",
+    "country": "UK",
+    "type": "Circuit",
+    "turns": 8,
+    "length": 3, 
+	"events": [] 
+	},
+  {
+    "name": "Sebring International Raceway",
+    "location": "Florida",
+    "country": "USA",
+    "type": "Circuit",
+    "turns": 17,
+    "length": 6.02, 
+	"events": [] 
+	},
+  {
+    "name": "Buddh International Circuit",
+    "location": "Uttar Pradesh",
+    "country": "India",
+    "type": "Circuit",
+    "turns": 16,
+    "length": 3.185,
+	"events": [] 
+	},
+  {
+    "name": "Circuit of the Americas",
+    "location": "Austin",
+    "country": "USA",
+    "type": "Circuit",
+    "turns": 20,
+    "length": 5.513,
+	"events": [] 
+   },
+  {
+    "name": "Sochi Autodrom",
+    "location": "Sochi",
+    "country": "Russia",
+    "type": "Circuit",
+    "turns": 18,
+    "length": 3.634, 
+	"events": [] 
+   },
+  {
+    "name": "Baku City Circuit",
+    "location": "Baku",
+    "country": "Azerbaijan",
+    "type": "Street Circuit",
+    "turns": 20,
+    "length": 3.73, 
+	"events": [] 
+	},
+  {
+    "name": "Autódromo Internacional do Algarve",
+    "location": "Portimão",
+    "country": "Portugal",
+    "type": "Circuit",
+    "turns": 15,
+    "length": 2.891, 
+	"events": [] 
+	},
+  {
+    "name": "Autodromo Internazionale del Mugello",
+    "location": "Mugello",
+    "country": "Italy",
+    "type": "Circuit",
+    "turns": 15,
+    "length": 3.259, 
+	"events": [] 
+	},
+  {
+    "name": "St. Petersburg Street Circuit",
+    "location": "Florida",
+    "country": "USA",
+    "type": "Street Circuit",
+    "turns": 14,
+    "length": 1.8, 
+	"events": [] 
+	},
+  {
+    "name": "Texas Motor Speedway",
+    "location": "Texas",
+    "country": "USA",
+    "type": "Oval",
+    "turns": 4,
+    "length": 1.5, 
+	"events": [] 
+	},
+  {
+    "name": "Daytona International Speedway",
+    "location": "Florida",
+    "country": "USA",
+    "type": "Oval",
+    "turns": 4,
+    "length": 2.5, 
+	"events": [] 
+	},
+  {
+    "name": "Martinsville Speedway",
+    "location": "Virginia",
+    "country": "USA",
+    "type": "Oval",
+    "turns": 4,
+    "length": 0.526, 
+	"events": [] 
+	},
+  {
+    "name": "Beijing Olympic Green Circuit",
+    "location": "Beijing",
+    "country": "China",
+    "type": "Street Circuit",
+    "turns": 20,
+    "length": 2.14, 
+	"events": [] 
+	},
+  {
+    "name": "Mount Panorama Circuit",
+    "location": "Bathurst",
+    "country": "Australia",
+    "type": "Street Circuit",
+    "turns": 23,
+    "length": 3.861, 
+	"events": [] 
+	},
+  {
+    "name": "Toronto Street Circuit",
+    "location": "Toronto",
+    "country": "Canada",
+    "type": "Street Circuit",
+    "turns": 11,
+    "length": 1.786, 
+	"events": [] 
+	},
+  {
+    "name": "Pocono Raceway",
+    "location": "Pennsylvania",
+    "country": "USA",
+    "type": "Oval",
+    "turns": 3,
+    "length": 2.5, 
+	"events": [] 
+	},
+  {
+    "name": "Phoenix Raceway",
+    "location": "Arizona",
+    "country": "USA",
+    "type": "Oval",
+    "turns": 4,
+    "length": 1, 
+	"events": [] 
+	},
+  {
+    "name": "Charlotte Motor Speedway",
+    "location": "North Carolina",
+    "country": "USA",
+    "type": "Oval",
+    "turns": 4,
+    "length": 1.5,
+	"events": [] 
+	},
+  {
+    "name": "Charlotte Motor Speedway (Roval)",
+    "location": "North Carolina",
+    "country": "USA",
+    "type": "Circuit",
+    "turns": 17,
+    "length": 2.28, 
+	"events": [] 
+   },
+  {
+    "name": "Nordschleife",
+    "location": "Nürburg",
+    "country": "Germany",
+    "type": "Circuit",
+    "turns": 154,
+    "length": 12.93,
+	"events": []
+  }
+]
