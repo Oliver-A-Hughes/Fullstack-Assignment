@@ -8,15 +8,15 @@ The dataset features all 76 circuits that have held a Formula 1 Grand Prix to da
 # Functionality:
 
 The following actions can be carried out by any user: 
-•	View race tracks in a paginated interface, featuring links to the next and previous pages.
-•	Filter page results.  
-•	Click on a race track to view information about that track and any upcoming events.
-• Request for a track or event to be added to the database.
+*	View race tracks in a paginated interface, featuring links to the next and previous pages.
+*	Filter page results.  
+*	Click on a race track to view information about that track and any upcoming events.
+* Request for a track or event to be added to the database.
 
 The following actions can be carried out by administrators:
-•	Add a race track.
-•	Add an event for a race track. 
-•	Edit an existing event.
-•	Delete an event for a race track.
-•	Delete a race track.
-• Review suggestions that have been submitted. 
+*	Add a race track.
+*	Add an event for a race track. 
+*	Edit an existing event.
+*	Delete an event for a race track.
+*	Delete a race track.
+* Review suggestions that have been submitted. 
